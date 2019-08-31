@@ -4,8 +4,8 @@
 
 ### 在线体验
 
-[https://lzq603.github.io/snail-desktop/](https://lzq603.github.io/snail-desktop/)（PC端）  
-[https://lzq603.github.io/snail-mobile/](https://lzq603.github.io/snail-mobile/) （移动端）
+[https://lzq603.github.io/snail/snail-desktop/](https://lzq603.github.io/snail/snail-desktop/)（PC端）  
+[https://lzq603.github.io/snail/snail-mobile/](https://lzq603.github.io/snail/snail-mobile/) （移动端）
 
 ### 规则
 
